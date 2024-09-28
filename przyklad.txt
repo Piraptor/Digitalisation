@@ -1,0 +1,16 @@
+algebra "T"
+2 rok I stopień teoretyczna
+egzamin
+Paweł Foremka
+    Ile wynosi
+    2+2
+    Policz $G/(a*G)$ gdzie G=\mathbb{Z}, a=2
+
+analiza matematyczna 2
+1 rok I stopień stosowana
+sprawdzian
+Mirosław Żelazo
+    Obliczyć
+    $\int\limits_1^{+\infty} \frac{1}{x} dx$
+    Uzasadnić, dlaczego rozumowanie jest poprawne.
+
